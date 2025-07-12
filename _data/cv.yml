@@ -23,7 +23,7 @@
       value: San Diego, California, US
     - name: Languages
       value: English (Fluent), Urdu (Fluent), Japanese (Basic)
-    
+
 - title: Education
   type: time_table
   contents:
@@ -49,7 +49,7 @@
         - Leading research on integrating snow hydrology, machine learning algorithms, and reservoir operations optimization to advance water resources management in snow-dominated watersheds of the western United States.
         - Actively conducting research on Forecast-Informed Reservoir Operations (FIRO) using ensemble forecasts for flood management during extreme events.
         - Contributing to peer-reviewed publications, technical deliverables, and presentations at scientific conferences and stakeholder-facing events.
-    
+
     - title: Postdoctoral Research Scholar
       institution: "<strong><a href='https://www.asu.edu/' target='_blank'>Arizona State University</a></strong><br><a href='https://chi.engineering.asu.edu/' target='_blank'>Center for Hydrologic Innovations</a><br><a href='https://ssebe.engineering.asu.edu/' target='_blank'>School of Sustainable Engineering & Built Environment (SSEBE)</a>"
       year: 2023 - 2025
@@ -91,8 +91,6 @@
         - Dissemination of forecast information to the hydropower companies to support optimal operation of dams.
         - Performance assessment and improvement using parallel programming to support real-time decision-making.
         - Management of laboratory activities, partial supervision of graduate level students, writing academic articles and presenting in scientific conferences
-
-
 
 - title: Open Source Projects
   type: time_table
