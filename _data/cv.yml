@@ -3,68 +3,96 @@
   contents:
     - name: Full Name
       value: Abdul Moiz
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Affiliation
+      value: "<strong><a href='https://ucsd.edu/' target='_blank'>University of California, San Diego</a></strong><br><a href='https://cw3e.ucsd.edu/' target='_blank'>Center for Western Weather and Water Extremes (CW3E)</a><br><a href='https://scripps.ucsd.edu/' target='_blank'>Scripps Institution of Oceanography</a>"
+    - name: Current position
+      value: Researcher (Hydrology & Water Resources)
+    - name: Summary
+      value: I am a hydrologist and water systems researcher focused on advancing climate-informed reservoir operations, flood risk management, and hydrologic forecasting. My work lies at the intersection of science, policy, and operations—developing novel decision support frameworks that integrate ensemble forecasting, snow hydrology, land surface modeling, and stakeholder-informed reservoir operations. Trained in Japan and currently based in California, I am passionate about building robust modeling and decision frameworks that improve water resilience under climate uncertainty.
+    - name: Research Interests
+      value: "• Catchment Hydrology<br>• Large-Scale Hydrology<br>• Snow Hydrology<br>• Hydrometeorological Forecasting<br>• Forecast Informed Reservoir Operation (FIRO)<br>• Dam Reservoir Operations<br>• Flood Risk Management"
+    - name: Email
+      value: <a href="mailto:amoiz@ucsd.edu">amoiz@ucsd.edu</a>
+    - name: Website
+      value: <a href="https://amoiz93.github.io/" target="_blank">https://amoiz93.github.io/</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/amoiz93/" target="_blank">https://www.linkedin.com/in/amoiz93/</a>
+    - name: GitHub
+      value: <a href="https://github.com/amoiz93" target="_blank">https://github.com/amoiz93</a>
+    - name: Location
+      value: San Diego, California, US
     - name: Languages
-      value: English, Urdu
+      value: English (Fluent), Urdu (Fluent), Japanese (Basic)
+    
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Civil Engineering
-      institution: The University of Tokyo, Tokyo, Japan
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      institution: "<a href='https://www.u-tokyo.ac.jp/en/' target='_blank'>The University of Tokyo</a><br> Department of Civil Engineering"
+      year: 2017 - 2020
+
     - title: Masters in Civil Engineering
-      institution: The University of Tokyo, Tokyo, Japan
-      year: 2017
-      description:
-        - Description 1.
-        - Description 2.
+      institution: "<a href='https://www.u-tokyo.ac.jp/en/' target='_blank'>The University of Tokyo</a><br> Department of Civil Engineering"
+      year: 2015 - 2017
+
     - title: Bachelors in Civil Engineering
-      institution: University of Engineering and Technology, Taxila, Pakistan
-      year: 2015
-      description:
-        - Description 1.
-        - Description 2.
+      institution: "<a href='https://www.uettaxila.edu.pk/' target='_blank'>University of Engineering and Technology, Taxila</a> <br> Department of Civil Engineering"
+      year: 2011 - 2015
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher & Development Engineer III (Hydrology & Water Resources)
+      institution: "<strong><a href='https://ucsd.edu/' target='_blank'>University of California, San Diego</a></strong><br><a href='https://cw3e.ucsd.edu/' target='_blank'>Center for Western Weather and Water Extremes (CW3E)</a><br><a href='https://scripps.ucsd.edu/' target='_blank'>Scripps Institution of Oceanography</a>"
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leading research on integrating snow hydrology, machine learning algorithms, and reservoir operations optimization to advance water resources management in snow-dominated watersheds of the western United States.
+        - Actively conducting research on Forecast-Informed Reservoir Operations (FIRO) using ensemble forecasts for flood management during extreme events.
+        - Contributing to peer-reviewed publications, technical deliverables, and presentations at scientific conferences and stakeholder-facing events.
+    
+    - title: Postdoctoral Research Scholar
+      institution: "<strong><a href='https://www.asu.edu/' target='_blank'>Arizona State University</a></strong><br><a href='https://chi.engineering.asu.edu/' target='_blank'>Center for Hydrologic Innovations</a><br><a href='https://ssebe.engineering.asu.edu/' target='_blank'>School of Sustainable Engineering & Built Environment (SSEBE)</a>"
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Led the multiscale performance benchmarking of NOAAs National Water Model (NWM) for high-intensity flood-producing precipitation events in arid and semi-arid basins, providing critical input to the Arizona Department of Water Resources for flood and recharge planning.
+        - Designed a cloud-based database for managing and disseminating large, multi-source hydrologic and climate datasets among researchers and state agency partners.
+        - Supported stakeholder engagement by translating complex model outputs into actionable insights for flood risk and water resources planning in the U.S. Southwest.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Technical Research Associate
+      institution: "<strong><a href='http://www.u-tokyo.ac.jp/en/' target='_blank'>The University of Tokyo</a></strong><br><a href='https://global-hydrodynamics.github.io/' target='_blank'>Global Hydrodynamics Lab</a><br><a href='https://www.iis.u-tokyo.ac.jp/en/' target='_blank'>Institute of Industrial Science (IIS)</a>"
+      year: 2023 - 2023
       description:
+        - Contributed to the development of a data assimilation scheme for the CaMa-Flood model, a global hydrodynamic flood inundation model.
+        - Contributed to the development of a benchmarking toolkit for CaMa-Flood model.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Project Researcher
+      institution: "<strong><a href='http://www.u-tokyo.ac.jp/en/' target='_blank'>The University of Tokyo</a></strong><br><a href='https://ifi.u-tokyo.ac.jp/en/' target='_blank'>Institute for Future Initiatives (IFI)</a>"
+      year: 2021 - 2023
+      description:
+        - Led the development of long-range (3-month) real-time hydrometeorological forecasting system for a snowfed watershed in Japan using a distributed hydrological model (WEB-DHM) and downscaled meteorological forecasts to support hydropower reservoir operations.
+        - Led the development of new techniques for auto-correction of radar snow precipitation to improve hydrological modeling in snowfed mountainous watersheds.
+        - Exploration of Integrated Assessment Model output datasets for developing policies to steward the global commons and limit climate change to 1.5C degree
+        - Management of laboratory activities, partial supervision of graduate level students, writing academic articles and presenting in scientific conferences
+
+    - title: Project Researcher
+      institution: "<strong><a href='http://www.u-tokyo.ac.jp/en/' target='_blank'>The University of Tokyo</a></strong><br><a href='https://aqua.t.u-tokyo.ac.jp/en/' target='_blank'>River & Environmental Engineering Laboratory (REEL)</a><br><a href='https://www.t.u-tokyo.ac.jp/en/' target='_blank'>Department of Civil Engineering</a>"
+      year: 2020 - 2021
+      description:
+        - Led the development of a hydrometeorological forecasting system (comprehensive data pipeline development from scratch) in Japan using gridded weather forecasts, radar observations, satellite observations and a distributed hydrological model using the state-of-the-art Data Integration and Analysis System (DIAS) at The University of Tokyo.
+        - Dissemination of forecast information to the hydropower companies to support optimal operation of dams.
+        - Performance assessment and improvement using parallel programming to support real-time decision-making.
+        - Management of laboratory activities, partial supervision of graduate level students, writing academic articles and presenting in scientific conferences
+
+    - title: Visiting Foreign Researcher
+      institution: "<strong><a href='https://www.pwri.go.jp/eindex.html' target='_blank'>Public Works Research Institute (PWRI)</a></strong><br><a href='https://aqua.t.u-tokyo.ac.jp/en/' target='_blank'>River & Environmental Engineering Laboratory (REEL)</a><br><a href='https://www.t.u-tokyo.ac.jp/en/' target='_blank'>Department of Civil Engineering</a>"
+      year: 2020 - 2021
+      description:
+        - Led the development of a hydrometeorological forecasting system (comprehensive data pipeline development from scratch) in Japan using gridded weather forecasts, radar observations, satellite observations and a distributed hydrological model using the state-of-the-art Data Integration and Analysis System (DIAS) at The University of Tokyo.
+        - Dissemination of forecast information to the hydropower companies to support optimal operation of dams.
+        - Performance assessment and improvement using parallel programming to support real-time decision-making.
+        - Management of laboratory activities, partial supervision of graduate level students, writing academic articles and presenting in scientific conferences
+
+
 
 - title: Open Source Projects
   type: time_table
