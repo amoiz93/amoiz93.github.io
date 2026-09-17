@@ -8,5 +8,20 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      # Keep generated files off cloud-synced host filesystems.
+      - type: volume
+        source: jekyll_site
+        target: /srv/jekyll/_site
+        volume:
+          nocopy: true
+      - type: volume
+        source: jekyll_cache
+        target: /srv/jekyll/.jekyll-cache
+        volume:
+          nocopy: true
     environment:
       - JEKYLL_ENV=development
+
+volumes:
+  jekyll_site:
+  jekyll_cache:
